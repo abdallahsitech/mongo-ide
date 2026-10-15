@@ -35,12 +35,19 @@ A professional, browser-based MongoDB GUI built with Flask and vanilla JavaScrip
 
 ## Screenshots
 
-> Dark theme (default)
+**Dark theme — home**
+![MongoIDE dark theme](.github/screenshot-dark.png)
 
-![MongoIDE dark theme — Query Builder](.github/screenshot-dark.png)
+**Sidebar expanded with connection tree**
+![MongoIDE sidebar](.github/screenshot-sidebar.png)
 
-> Light theme
+**Query Builder**
+![MongoIDE query builder](.github/screenshot-query.png)
 
+**Aggregation Pipeline editor**
+![MongoIDE aggregation](.github/screenshot-aggregation.png)
+
+**Light theme**
 ![MongoIDE light theme](.github/screenshot-light.png)
 
 ---
